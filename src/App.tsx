@@ -299,10 +299,11 @@ export default function App() {
         <div className="mt-4 text-center text-gray-600 text-sm">
           App used: {usageCount} times
         </div>
-        <p className="mt-8 text-center text-gray-500 text-xs">
-          © 2026 Brandon Smith<br/>
-          Educational use only.
-        </p>
+<p className="mt-8 text-center text-gray-500 text-xs">
+  © 2026 Brandon Smith<br/>
+  Educational use only.<br/>
+  Part of the <a href="https://www.youtube.com/@AskGrandpa" target="_blank" rel="noopener noreferrer" className="underline">Ask Grandpa YouTube channel</a>
+</p>
       </div>
     </div>
   );
