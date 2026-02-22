@@ -302,7 +302,7 @@ export default function App() {
 <p className="mt-8 text-center text-gray-500 text-xs">
   © 2026 Brandon Smith<br/>
   Educational use only.<br/>
-  Part of the <a href="https://www.youtube.com/@AskGrandpa" target="_blank" rel="noopener noreferrer" className="underline">Ask Grandpa YouTube channel</a>
+  Part of the <a href="https://www.youtube.com/@AskGRandpaOfficial" target="_blank" rel="noopener noreferrer" className="underline">Ask Grandpa YouTube channel</a>
 </p>
       </div>
     </div>
