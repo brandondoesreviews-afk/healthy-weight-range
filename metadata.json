@@ -1,0 +1,5 @@
+{
+  "name": "Weight Recommendation App",
+  "description": "An app that tells people how much they should weigh based on sex, age, and height.",
+  "requestFramePermissions": []
+}
